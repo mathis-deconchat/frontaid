@@ -1,1 +1,10 @@
-{}
+{
+  "custom-field": "Application",
+  "custom-list": [
+    {}
+  ],
+  "custom-object": {
+    "custom-line": "How to CMS",
+    "custom-text": "CMS boy"
+  }
+}
